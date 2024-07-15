@@ -1,0 +1,16 @@
+<div class="component-background">
+  <div class="form-frame">
+    <form [formGroup]="form" (ngSubmit)="guardarUsuario()" class="form-container">
+      <div class="mb-3">
+        <input type="text" formControlName="userName" class="form-control input-sm" placeholder="Nombre de Usuario">
+      </div>
+      <div class="mb-3">
+        <input type="email" formControlName="email" class="form-control input-sm" placeholder="Correo">
+      </div>
+      <div class="mb-3">
+        <input type="password" formControlName="passwordAng" class="form-control input-sm" placeholder="Contraseña">
+      </div>
+      <button type="submit" class="btn btn-primary" [disabled]="form.invalid">Enviar</button>
+    </form>
+  </div>
+</div>

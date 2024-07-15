@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{445063AC-1EEB-4033-A8EA-40F6FE3AD025}|anecdotes.client\\anecdotes.client.esproj|d:\\estudio juand\\proyectos2024practicas\\anecdotes\\anecdotes.client\\src\\app\\components\\registro\\registro.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{445063AC-1EEB-4033-A8EA-40F6FE3AD025}|anecdotes.client\\anecdotes.client.esproj|solutionrelative:anecdotes.client\\src\\app\\components\\registro\\registro.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445063AC-1EEB-4033-A8EA-40F6FE3AD025}|anecdotes.client\\anecdotes.client.esproj|d:\\estudio juand\\proyectos2024practicas\\anecdotes\\anecdotes.client\\src\\app\\components\\registro\\registro.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{445063AC-1EEB-4033-A8EA-40F6FE3AD025}|anecdotes.client\\anecdotes.client.esproj|solutionrelative:anecdotes.client\\src\\app\\components\\registro\\registro.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445063AC-1EEB-4033-A8EA-40F6FE3AD025}|anecdotes.client\\anecdotes.client.esproj|d:\\estudio juand\\proyectos2024practicas\\anecdotes\\anecdotes.client\\src\\app\\models\\usuarioregistradoan.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{445063AC-1EEB-4033-A8EA-40F6FE3AD025}|anecdotes.client\\anecdotes.client.esproj|solutionrelative:anecdotes.client\\src\\app\\models\\usuarioregistradoan.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445063AC-1EEB-4033-A8EA-40F6FE3AD025}|anecdotes.client\\anecdotes.client.esproj|d:\\estudio juand\\proyectos2024practicas\\anecdotes\\anecdotes.client\\src\\app\\services\\usuario.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{445063AC-1EEB-4033-A8EA-40F6FE3AD025}|anecdotes.client\\anecdotes.client.esproj|solutionrelative:anecdotes.client\\src\\app\\services\\usuario.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445063AC-1EEB-4033-A8EA-40F6FE3AD025}|anecdotes.client\\anecdotes.client.esproj|d:\\estudio juand\\proyectos2024practicas\\anecdotes\\anecdotes.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{445063AC-1EEB-4033-A8EA-40F6FE3AD025}|anecdotes.client\\anecdotes.client.esproj|solutionrelative:anecdotes.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445063AC-1EEB-4033-A8EA-40F6FE3AD025}|anecdotes.client\\anecdotes.client.esproj|d:\\estudio juand\\proyectos2024practicas\\anecdotes\\anecdotes.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{445063AC-1EEB-4033-A8EA-40F6FE3AD025}|anecdotes.client\\anecdotes.client.esproj|solutionrelative:anecdotes.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445063AC-1EEB-4033-A8EA-40F6FE3AD025}|anecdotes.client\\anecdotes.client.esproj|d:\\estudio juand\\proyectos2024practicas\\anecdotes\\anecdotes.client\\src\\app\\components\\registro\\registro.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{445063AC-1EEB-4033-A8EA-40F6FE3AD025}|anecdotes.client\\anecdotes.client.esproj|solutionrelative:anecdotes.client\\src\\app\\components\\registro\\registro.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445063AC-1EEB-4033-A8EA-40F6FE3AD025}|anecdotes.client\\anecdotes.client.esproj|d:\\estudio juand\\proyectos2024practicas\\anecdotes\\anecdotes.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{445063AC-1EEB-4033-A8EA-40F6FE3AD025}|anecdotes.client\\anecdotes.client.esproj|solutionrelative:anecdotes.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAC33AE-4AA0-40ED-BF68-9023E8CB15CD}|Anecdotes.Server\\Anecdotes.Server.csproj|d:\\estudio juand\\proyectos2024practicas\\anecdotes\\anecdotes.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABAC33AE-4AA0-40ED-BF68-9023E8CB15CD}|Anecdotes.Server\\Anecdotes.Server.csproj|solutionrelative:anecdotes.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "registro.component.css",
+              "DocumentMoniker": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\anecdotes.client\\src\\app\\Components\\registro\\registro.component.css",
+              "RelativeDocumentMoniker": "anecdotes.client\\src\\app\\Components\\registro\\registro.component.css",
+              "ToolTip": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\anecdotes.client\\src\\app\\Components\\registro\\registro.component.css",
+              "RelativeToolTip": "anecdotes.client\\src\\app\\Components\\registro\\registro.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-05T19:52:32.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioRegistradoAn.ts",
+              "DocumentMoniker": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\anecdotes.client\\src\\app\\Models\\UsuarioRegistradoAn.ts",
+              "RelativeDocumentMoniker": "anecdotes.client\\src\\app\\Models\\UsuarioRegistradoAn.ts",
+              "ToolTip": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\anecdotes.client\\src\\app\\Models\\UsuarioRegistradoAn.ts",
+              "RelativeToolTip": "anecdotes.client\\src\\app\\Models\\UsuarioRegistradoAn.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-04T23:02:36.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "usuario.service.ts",
+              "DocumentMoniker": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\anecdotes.client\\src\\app\\Services\\usuario.service.ts",
+              "RelativeDocumentMoniker": "anecdotes.client\\src\\app\\Services\\usuario.service.ts",
+              "ToolTip": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\anecdotes.client\\src\\app\\Services\\usuario.service.ts",
+              "RelativeToolTip": "anecdotes.client\\src\\app\\Services\\usuario.service.ts",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-04T22:13:11.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "styles.css",
+              "DocumentMoniker": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\anecdotes.client\\src\\styles.css",
+              "RelativeDocumentMoniker": "anecdotes.client\\src\\styles.css",
+              "ToolTip": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\anecdotes.client\\src\\styles.css",
+              "RelativeToolTip": "anecdotes.client\\src\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-04T21:25:30.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "registro.component.ts",
+              "DocumentMoniker": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\anecdotes.client\\src\\app\\Components\\registro\\registro.component.ts",
+              "RelativeDocumentMoniker": "anecdotes.client\\src\\app\\Components\\registro\\registro.component.ts",
+              "ToolTip": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\anecdotes.client\\src\\app\\Components\\registro\\registro.component.ts",
+              "RelativeToolTip": "anecdotes.client\\src\\app\\Components\\registro\\registro.component.ts",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-03T03:15:16.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\anecdotes.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "anecdotes.client\\src\\app\\app.module.ts",
+              "ToolTip": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\anecdotes.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "anecdotes.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-03T03:14:30.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "registro.component.html",
+              "DocumentMoniker": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\anecdotes.client\\src\\app\\Components\\registro\\registro.component.html",
+              "RelativeDocumentMoniker": "anecdotes.client\\src\\app\\Components\\registro\\registro.component.html",
+              "ToolTip": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\anecdotes.client\\src\\app\\Components\\registro\\registro.component.html",
+              "RelativeToolTip": "anecdotes.client\\src\\app\\Components\\registro\\registro.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-03T00:51:30.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "angular.json",
+              "DocumentMoniker": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\anecdotes.client\\angular.json",
+              "RelativeDocumentMoniker": "anecdotes.client\\angular.json",
+              "ToolTip": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\anecdotes.client\\angular.json",
+              "RelativeToolTip": "anecdotes.client\\angular.json",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T23:32:12.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\Anecdotes.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Anecdotes.Server\\Program.cs",
+              "ToolTip": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\Anecdotes.Server\\Program.cs",
+              "RelativeToolTip": "Anecdotes.Server\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAABsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T04:39:36.108Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
