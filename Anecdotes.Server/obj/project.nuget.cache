@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SuVZQimDlhKFTQzqRZyx/a81LJtb7B1FKtoFnEoh622R+vUagtob+QeSgPXRLWXAr932HuKcsx930rQR5hT4sA==",
+  "dgSpecHash": "cA4WENx73UhMhW7m77BtknlU0BnhW/P0jYFwz7SbZgFe5NPWGemdwYABrBnvoGei+5WU5/xtgBR7Clwdv/FKuQ==",
   "success": true,
   "projectFilePath": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\Anecdotes.Server\\Anecdotes.Server.csproj",
   "expectedPackageFiles": [
@@ -57,7 +57,7 @@
     "C:\\Users\\SirJuanD23\\.nuget\\packages\\humanizer.core.zh-hans\\2.14.1\\humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "C:\\Users\\SirJuanD23\\.nuget\\packages\\humanizer.core.zh-hant\\2.14.1\\humanizer.core.zh-hant.2.14.1.nupkg.sha512",
     "C:\\Users\\SirJuanD23\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.24\\microsoft.aspnetcore.razor.language.6.0.24.nupkg.sha512",
-    "C:\\Users\\SirJuanD23\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.6\\microsoft.aspnetcore.spaproxy.8.0.6.nupkg.sha512",
+    "C:\\Users\\SirJuanD23\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.7\\microsoft.aspnetcore.spaproxy.8.0.7.nupkg.sha512",
     "C:\\Users\\SirJuanD23\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\SirJuanD23\\.nuget\\packages\\microsoft.build\\17.8.3\\microsoft.build.17.8.3.nupkg.sha512",
     "C:\\Users\\SirJuanD23\\.nuget\\packages\\microsoft.build.framework\\17.8.3\\microsoft.build.framework.17.8.3.nupkg.sha512",

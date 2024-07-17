@@ -649,7 +649,7 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Razor.Language.dll": {}
         }
       },
-      "Microsoft.AspNetCore.SpaProxy/8.0.6": {
+      "Microsoft.AspNetCore.SpaProxy/8.0.7": {
         "type": "package",
         "compile": {
           "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll": {}
@@ -3652,10 +3652,10 @@
         "microsoft.aspnetcore.razor.language.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.SpaProxy/8.0.6": {
-      "sha512": "LBIMKEYxs06TJi/7ekqbfJ8VuoBqC3EORy+mw7Xp0gDIdDGhuaKkeT8BWIzetBbGVix4Tpn3k9GEdJ8Z7E7YOw==",
+    "Microsoft.AspNetCore.SpaProxy/8.0.7": {
+      "sha512": "31Tcbla9XXgcKaso1VYPy5LBMzYSbY0i8taXYEyO6bknvak4DqKhWJ/FxDp7A9k21rT6QHyKT2P0Kl5FaeHDzA==",
       "type": "package",
-      "path": "microsoft.aspnetcore.spaproxy/8.0.6",
+      "path": "microsoft.aspnetcore.spaproxy/8.0.7",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3663,7 +3663,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "build/Microsoft.AspNetCore.SpaProxy.targets",
         "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll",
-        "microsoft.aspnetcore.spaproxy.8.0.6.nupkg.sha512",
+        "microsoft.aspnetcore.spaproxy.8.0.7.nupkg.sha512",
         "microsoft.aspnetcore.spaproxy.nuspec"
       ]
     },
@@ -8288,6 +8288,7 @@
   },
   "packageFolders": {
     "C:\\Users\\SirJuanD23\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -8300,10 +8301,12 @@
       "outputPath": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\Anecdotes.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\SirJuanD23\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8312,6 +8315,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },

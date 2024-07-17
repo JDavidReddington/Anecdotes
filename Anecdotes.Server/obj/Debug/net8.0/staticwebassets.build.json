@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "LZnUSyBMEMnOQ4zRtHc4Vb+eqdQOy8IImzmZQNIKCvc=",
+  "Hash": "bhEdAbhNk9ViB18lTylLr/vDSightidAJ3dp4V55GOE=",
   "Source": "Anecdotes.Server",
   "BasePath": "_content/Anecdotes.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\SirJuanD23\\source\\repos\\Anecdotes\\anecdotes.client\\anecdotes.client.esproj",
+      "Identity": "D:\\Estudio JuanD\\Proyectos2024Practicas\\Anecdotes\\anecdotes.client\\anecdotes.client.esproj",
       "Version": 2,
       "Source": "anecdotes.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

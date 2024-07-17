@@ -1,1 +1,2 @@
 C:\Users\SirJuanD23\source\repos\Anecdotes\anecdotes.client\obj\Debug\anecdotes.client.esproj.CoreCompileInputs.cache
+D:\Estudio JuanD\Proyectos2024Practicas\Anecdotes\anecdotes.client\obj\Debug\anecdotes.client.esproj.CoreCompileInputs.cache
